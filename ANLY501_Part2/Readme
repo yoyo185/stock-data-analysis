@@ -1,0 +1,25 @@
+ANLY501 Project Part2
+Analytics
+Heng Zhou, Hongyang Zheng, 
+Youyou Xie, Zhengqian Xu
+
+
+data_file:
+
+data1clean.csv: dataset1 after cleaning from project1
+data2clean.csv: dataset2 after cleaning from project1
+dataset3.csv: cleaned and combined dataset after exploratory analysis, input dataset for predictive analysis
+
+
+python_file:
+
+Project2_ExploratoryAnalysis.py: python code for exploratory analysis
+Project2_PredictiveAnalysis.py: python code for predictive analysis
+
+
+
+word file:
+
+Project Report.doc: word document to explain and analyze each part, display predictive results and plots.
+
+
