@@ -1,0 +1,15 @@
+ANLY501 Project Part3
+Analytics
+Heng Zhou, Hongyang Zheng, 
+Youyou Xie, Zhengqian Xu
+
+
+dataset3.csv: input file containing dataset for our analysis.
+
+Project_Part3.py: python code for additional analysis and visualizations.
+
+ANLY501Project_Part3_Visualizations.doc: word file containing 11 visualizations, 8 from python code and 3 from Tableau.
+
+ANLY501Project_Part3_NetworkExplanation.doc: word file explaining network we have done in python code.
+
+Final story website: http://daniu.georgetown.domains/home/
